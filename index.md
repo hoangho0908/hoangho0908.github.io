@@ -1,12 +1,11 @@
 ## Portfolio
 
----
 
 ### Phân tích dữ liệu và khoa học dữ liệu
 
 ### Luận văn thạc sĩ: Áp dụng quá trình phân tích dữ liệu và máy học trong phân tích tiếp thị ngành bán lẻ
 
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)]([https://github.com/chriskhanhtran/kaggle-house-price/blob/master/ames-house-price.ipynb](https://github.com/hoangho0908/data-science-in-retail-marketing-dissertation))
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/hoangho0908/data-science-in-retail-marketing-dissertation)
 
 **Mục tiêu:** Sử dụng phần mềm R, kỹ thuật khai thác dữ liệu và học máy trên tập dữ liệu bán lẻ lớn để hiểu về khách hàng và dự đoán tác động của các chiến dịch tiếp thị đối với hành vi của người tiêu dùng.
 
