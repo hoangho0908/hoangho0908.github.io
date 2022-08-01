@@ -2,30 +2,27 @@
 
 ---
 
-### Category Name 1 
+### Phân tích dữ liệu và khoa học dữ liệu
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+### Luận văn thạc sĩ: Áp dụng quá trình phân tích dữ liệu và máy học trong phân tích tiếp thị ngành bán lẻ
 
----
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)]([https://github.com/chriskhanhtran/kaggle-house-price/blob/master/ames-house-price.ipynb](https://github.com/hoangho0908/data-science-in-retail-marketing-dissertation))
 
----
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+**Mục tiêu:** Sử dụng phần mềm R, kỹ thuật khai thác dữ liệu và học máy trên tập dữ liệu bán lẻ lớn để hiểu về khách hàng và dự đoán tác động của các chiến dịch tiếp thị đối với hành vi của người tiêu dùng.
 
----
+**Các giải pháp:** 
+⋅⋅* Làm sạch và xử lý trước các tập dữ liệu bằng cách liên kết các bảng, kiểm tra logic dữ liệu, các giá trị bị thiếu, giá trị trùng lặp và cân bằng dữ liệu.
+⋅⋅* Xây dựng các biến mang tính đại diện cho từng người tiêu dùng. Sử dụng các kỹ thuật Trực quan hoá để nắm được thông tin chi tiết về người tiêu dùng như dữ liệu nhân khẩu học và hành vi (chi tiêu trung bình, thói quen,…).
+⋅⋅* Sử dụng các mô hình phân loại như Random Forest, Boosted Decision Tree C5.0 và bagged decision trees để dự đoán xem liệu người tiêu dùng có phản hồi với chiến dịch Marketing hay không. Đánh giá các mô hình bằng cách sử dụng ma trận nhầm lẫn và ROC-AUC.
 
-### Category Name 2
+**Kết quả:** 
+⋅⋅* Có được những hiểu biết sâu sắc về người tiêu dùng và thói quen mua hàng.
+⋅⋅* Mối tương quan đã được chứng minh giữa các chiến thuật tiếp thị trực tiếp và xu hướng chi tiêu của người tiêu dùng.
+⋅⋅* Xây dựng các mô hình phân loại hiệu quả để dự đoán phản hồi của người dùng. Các mô hình được chứng minh là hiệu quả với độ nhạy (sensitivity) được ghi nhận mức cao nhất là 91%.
+⋅⋅* Tìm hiểu các trường hợp áp dụng từng mô hình để tối ưu hoá chi phí hoặc tiếp cận khách hàng
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
-
----
+<center><img src="images/data-science-in-retail-marketing.jpg"/></center>
+<br>
 
 
 
