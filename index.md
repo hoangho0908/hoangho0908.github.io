@@ -20,7 +20,7 @@
 * Xây dựng các mô hình phân loại để dự đoán phản hồi của người dùng với các chiến dịch Marketing. Các mô hình được chứng minh là hiệu quả với độ nhạy (sensitivity) được ghi nhận mức cao nhất là 91%.
 * Tìm hiểu các trường hợp áp dụng từng mô hình để tối ưu hoá chi phí hoặc tiếp cận khách hàng
 
-<center><img src="images/data-science-in-retail-marketing.jpg"/></center>
+<center><img src="images/dissertation.png"/></center>
 <br>
 
 
